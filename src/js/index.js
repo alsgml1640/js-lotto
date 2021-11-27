@@ -267,9 +267,3 @@ $resetButton.addEventListener('click',()=>{
 $modalCloseButton.addEventListener('click',() =>{
   modalView.classList.remove('open');
 })
-
-// local step1
-// fork setp1
-// upstream merge mini
-
-`
